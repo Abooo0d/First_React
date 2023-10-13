@@ -1,0 +1,11 @@
+export { default as Header } from "./Header/Header";
+export { default as Footer } from "./Footer/Footer";
+export { default as About } from "./About/About";
+export { default as Logos } from "./Logos/Logos";
+export { default as Services } from "./Services/services";
+export { default as WhyUs } from "./WhyUs/WhyUs";
+export { default as Portfolio } from "./Portfolio/Portfolio";
+export { default as Team } from "./Team/Team";
+export { default as Pricing } from "./Pricing/Priscing";
+export { default as FAQs } from "./FAQs/FAQs";
+export { default as ContactUs } from "./ContactUs/ContactUs";
